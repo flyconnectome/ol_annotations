@@ -167,3 +167,4 @@ cython_debug/
 .httr-oauth
 .DS_Store
 samples/
+README.html
