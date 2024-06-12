@@ -25,7 +25,7 @@ Because annotations in both source datasets may still change and because our mat
 For the matching in this repository, please cite:
 
 -   [Nern et al. Connectome-driven neural inventory of a complete visual system](https://www.biorxiv.org/content/10.1101/2024.04.16.589741)\
-    *NB Click on the [![](images/citation-button.png)](https://www.biorxiv.org/content/10.1101/2024.04.16.589741) button on bioRxiv to get your preferred citation manager format.*
+    *NB Click on the [![](images/citation-button.png|width=84)](https://www.biorxiv.org/content/10.1101/2024.04.16.589741) button on bioRxiv to get your preferred citation manager format.*
 
 You will almost certainly also want citations for the underlying cell types/connectome data:
 
