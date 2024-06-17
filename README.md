@@ -2,6 +2,17 @@
 
 This repository contains code and data to enable combined analysis of the *Drosophila* Optic Lobe neurons annotated in the [FAFB-FlyWire](https://codex.flywire.ai/) and Male CNS [Optic Lobe](https://www.janelia.org/project-team/flyem/optic-lobe) datasets.
 
+The most important output is this [matching table](data/olmatching.tsv) summarising
+the cell type to cell type matches between the male and female datasets. This is
+organised using the Nern et al. cell types as a reference and identifying the
+corresponding Schlegel et al or Matsliah et al cell types. The great majority
+of these matches are 1-to-1 but some are more complex. For further details,
+please consult the methods of the [Nern et al preprint](https://www.biorxiv.org/content/10.1101/2024.04.16.589741).
+
+As a convenience github allows you to query the matching spreadsheet and 
+Neuroglancer scenes containing both datasets are available ([sample](https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm11a.json)),
+allowing direct comparison of matched neurons.
+
 ## Organisation
 
 The repository contains the following main folders
