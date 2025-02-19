@@ -127,7 +127,7 @@ OL_intrinsic	Cm31a	Sm40	CB3841	NA	2	1	2	2	1-to-1	https://neuroglancer-demo.appsp
 OL_intrinsic	Cm31b	Sm41	NA	NA	1	1	NA	NA	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm31b.json	gaba	gaba	NA
 OL_intrinsic	Cm32	Sm35	CB3844	NA	1	3	3	2	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm32.json	gaba	gaba	NA
 OL_intrinsic	Cm33	Sm37	CB3838	NA	1	2	3	3	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm33.json	gaba	gaba	NA
-OL_intrinsic	Cm34	Sm43	NA	NA	1	1	NA	NA	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm34.json	glutamate	gaba	NA
+OL_intrinsic	Cm34	Sm42	NA	NA	1	1	NA	NA	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm34.json	glutamate	gaba	NA
 OL_intrinsic	Cm35	Sm39	CB3843	NA	1	2	1	1	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm35.json	gaba	gaba	NA
 OL_intrinsic	Cm4	Sm03	NA	NA	126	94	NA	NA	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm4.json	glutamate	glutamate	NA
 OL_intrinsic	Cm5	Sm08	Dm21	NA	109	81	261	262	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Cm5.json	gaba	gaba	NA
@@ -180,7 +180,7 @@ OL_intrinsic	Li27	Li03	NA	NA	58	46	NA	NA	1-to-1	https://neuroglancer-demo.appspo
 OL_intrinsic	Li28	Li22	Li2	NA	6	8	9	8	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Li28.json	gaba	gaba	NA
 OL_intrinsic	Li29	Li26	CB3835	NA	4	4	4	4	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Li29.json	gaba	gaba	NA
 OL_intrinsic	Li30	Li24	NA	NA	6	6	NA	NA	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Li30.json	gaba	gaba	NA
-OL_intrinsic	Li31	LLpt101_L56-Lp2	NA	NA	1	1	NA	NA	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Li31.json	glutamate	glutamate	NA
+OL_intrinsic	Li31	Li29	NA	NA	1	1	NA	NA	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Li31.json	glutamate	glutamate	NA
 OL_intrinsic	Li32	Li32	NA	NA	1	1	NA	NA	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Li32.json	gaba	gaba	NA
 OL_intrinsic	Li33	Li30	1343403608	NA	1	1	1	1	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Li33.json	acetylcholine	acetylcholine	NA
 OL_intrinsic	Li34a	Li11	CB3828	NA	34	31	55	58	1-to-1	https://neuroglancer-demo.appspot.com/#!gs://flyem-optic-lobe/v1.0/cross-dataset-comparison/Li34a.json	gaba	gaba	NA
